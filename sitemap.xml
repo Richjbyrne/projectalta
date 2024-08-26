@@ -106,9 +106,6 @@
   <loc>http://www.petmd.com/hub/birds</loc>
 </url>
 <url>
-  <loc>http://www.petmd.com/ferret</loc>
-</url>
-<url>
   <loc>http://www.petmd.com/fish</loc>
 </url>
 <url>
@@ -137,15 +134,6 @@
 </url>
 <url>
   <loc>http://www.petmd.com/sugar-glider</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horses</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/reptile/species</loc>
 </url>
 <url>
   <loc>http://www.petmd.com/centers/reptile</loc>
@@ -200,12 +188,6 @@
 </url>
 <url>
   <loc>http://www.petmd.com/hub/dog-flea-tick-treatment</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/hub/caring-for-horse</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/hub/horse-vaccines</loc>
 </url>
 <url>
   <loc>http://www.petmd.com/hub/kitten-care</loc>
@@ -275,12 +257,6 @@
 </url>
 <url>
   <loc>http://www.petmd.com/cat/symptoms/itchy-cat-causes-and-when-to-worry</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/conditions/skin/tail-rubbing-horses</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/hub/pain-management-dogs?utm_source=petmd.com&amp;utm_medium=homepagefeature&amp;utm_campaign=Galliprant&amp;utm_term=PETMDSPON</loc>
 </url>
 <url>
   <loc>http://www.petmd.com/fish/goldfish-care-sheet</loc>
@@ -3889,12 +3865,6 @@
   <loc>http://www.petmd.com/pet-medication/dl-methionine-dogs-and-cats</loc>
 </url>
 <url>
-  <loc>http://www.petmd.com/pet-medication/domperidone-equidone-gel-horses</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/pet-medication/dormosedan-gel-detomidine-hydrochloride-for-horses</loc>
-</url>
-<url>
   <loc>http://www.petmd.com/pet-medication/doxycycline</loc>
 </url>
 <url>
@@ -3919,9 +3889,6 @@
   <loc>http://www.petmd.com/pet-medication/ephedrine</loc>
 </url>
 <url>
-  <loc>http://www.petmd.com/pet-medication/equisul-sdt-sulfadiazine-trimethoprim-for-horses</loc>
-</url>
-<url>
   <loc>http://www.petmd.com/pet-medication/etodolac-dogs</loc>
 </url>
 <url>
@@ -3932,12 +3899,6 @@
 </url>
 <url>
   <loc>http://www.petmd.com/pet-medication/fenbendazole-panacur-safe-guard-for-dogs-cats</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/pet-medication/fenbendazole-panacur-safe-guard-for-horses</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/pet-medication/equioxx-firocoxib-for-horses</loc>
 </url>
 <url>
   <loc>http://www.petmd.com/pet-medication/fluconazole</loc>
@@ -3970,9 +3931,6 @@
   <loc>http://www.petmd.com/pet-medication/griseofulvin</loc>
 </url>
 <url>
-  <loc>http://www.petmd.com/horse/pet-medication/griseofulvin-for-horses</loc>
-</url>
-<url>
   <loc>http://www.petmd.com/pet-medication/heartgard</loc>
 </url>
 <url>
@@ -3998,9 +3956,6 @@
 </url>
 <url>
   <loc>http://www.petmd.com/pet-medication/interceptor</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/pet-medication/isoxsuprine-horses</loc>
 </url>
 <url>
   <loc>http://www.petmd.com/pet-medication/itraconazole-itrafungol</loc>
@@ -4198,9 +4153,6 @@
   <loc>http://www.petmd.com/pet-medication/revolution</loc>
 </url>
 <url>
-  <loc>http://www.petmd.com/pet-medication/rifampin-horses</loc>
-</url>
-<url>
   <loc>http://www.petmd.com/pet-medication/rilexine-cephalexin</loc>
 </url>
 <url>
@@ -4321,25 +4273,16 @@
   <loc>http://www.petmd.com/pet-medication/vitamin-k1-for-dogs-cats</loc>
 </url>
 <url>
-  <loc>http://www.petmd.com/pet-medication/vitamin-k1-for-horses</loc>
-</url>
-<url>
   <loc>http://www.petmd.com/pet-medication/voriconazole</loc>
 </url>
 <url>
   <loc>http://www.petmd.com/pet-medication/zantac</loc>
 </url>
 <url>
-  <loc>http://www.petmd.com/pet-medication/zimeta-dipyrone-injection-for-horses</loc>
-</url>
-<url>
   <loc>http://www.petmd.com/pet-medication/zithromax-azithromycin</loc>
 </url>
 <url>
   <loc>http://www.petmd.com/pet-medication/zonisamide</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/pet-medication/zycosan-pentosan-polysulfate-for-horses</loc>
 </url>
 <url>
   <loc>http://www.petmd.com/dog/how-prevent-and-get-rid-fleas-and-ticks-dogs</loc>
@@ -7123,57 +7066,6 @@
   <loc>http://www.petmd.com/general-health/most-popular-pets</loc>
 </url>
 <url>
-  <loc>http://www.petmd.com/ferret/care/evr_ft_first_ferret</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/ferret/ferret-colors-markings-and-patterns</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/ferret/conditions/endocrine/adrenal-disease-ferrets</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/ferret/what-do-ferrets-eat</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/ferret/ferret-care-sheet</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/ferret/conditions/skin/ringworm-ferrets</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/ferret/how-long-do-ferrets-live</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/ferret/conditions/respiratory/c_ft_human_influenza_virus</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/ferret/conditions/digestive/c_ft_Foreign_objects_in_stomach</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/ferret/conditions/digestive/c_ft_Epizootic_catarrhal_enteritis</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/ferret/conditions/cardiovascular/c_ft_Dilated_Cardiomyopathy</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/ferret/p/2#all-articles</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/ferret/p/3#all-articles</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/ferret/p/4#all-articles</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/ferret/p/5#all-articles</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/ferret/p/6#all-articles</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/ferret/p/14#all-articles</loc>
-</url>
-<url>
   <loc>http://www.petmd.com/fish/care/how-to-take-care-of-goldfish</loc>
 </url>
 <url>
@@ -7586,545 +7478,5 @@
 </url>
 <url>
   <loc>http://www.petmd.com/exotic/conditions/systemic/dehydration-sugar-gliders</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_abtenauer</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_adaev</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_akhal_teke</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_albanian</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_albino</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_altai</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_alter_real</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_american_bashkir_curly</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_american_indian_horse</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_american_minature</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_american_mustang</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/american-paint-horse</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/american-quarter-horse</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_american_saddlebred</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_american_walking_pony</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_anadolu</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_Andalusian</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_andean</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_anglo_kabarda</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/appaloosa</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_araappaloosa</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_Araba</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_arab</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_argentine_criollo</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_argentine_polo_pony</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_assateague</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_asturian</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_australian_pony</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_australian_stock_horse</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_auxois</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_avelignese</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_azerbaijan</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_chinese_mongolian</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_chumbivilcas</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/clydesdale-horse</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_colombian_criollo</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_comtois</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_costeno</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_cuban_paso</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_cuban_pinto</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_cuban_trotter</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_czechoslovakian_small_riding_horse</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_czech_warmblood</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_danish_sport_pony</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_danubian</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/dartmoor-pony</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_deliboz</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_dongola</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_dulmen_pony</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_dutch_draft</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_dutch_tuigpaard</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_dutch_warmblood</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_east_and_southeast_anadolu</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_english_cob</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_english_hack</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_english_thoroughbred</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_eriskay_pony</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_erlunchun</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_estonian_draft</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_falabella</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_finnhorse</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_flores</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_florida_cracker_horse</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_frederiksborg</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_freiberg</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_french_anglo_arab</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_french_ardennais</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_french_cob</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_french_saddle_pony</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_french_trotter</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/friesian</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_french_furioso</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_galice%C3%B1o</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_garrano</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/gelderland_horse</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_german_riding_pony</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_gidran</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_gotland</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_groningen</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_guanzhong</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_guizhou</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_guoxia</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/hackney</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_hackney_pony</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/haflinger</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_half_saddlebred</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_hanoverian</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_heihe</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_heilongkiang</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_hequ</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_hessen</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/highland_pony</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_hinis</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_hirzai</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_hokkaido</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_holstein</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_hungarian_coldblood</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_hungarian_sports_horse</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_icelandic_horse</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_international_striped_horse</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_iomud</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_irish_cob</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_irish_draft</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_irish_hunter</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_israeli</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_jabe</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_java</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_jianchang</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_jielin</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_jinhong</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_jinzhou</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_jutland</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_kabarda</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_kalmyk</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_karabair</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_karabakh</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_karacabey</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_karachai</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_karaka%C3%A7an</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_kathiawari</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_kazakh</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_kiger_mustang</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_kirgiz</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_kisber_half_breed</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_kiso</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_kladruby</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_knabstrup</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_konik</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_lipizzan</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_lusitano</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_missouri_fox_trotter</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_morab</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_morgan</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_paso_fino</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/shetland-pony</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/breeds/c_hr_welsh_cob</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/horse-feeding-everything-you-need-know</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/horse-dewormers</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/winter-care-horses</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/barn-fire-safety-checklist-how-keep-horses-safe-emergency</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/conditions/neurological/shivers-horses</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/conditions/musculoskeletal/stringhalt-horses</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/conditions/skin/hoof-abscess-horses</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/how-measure-horse-horse-blanket</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/caring-for-older-horse-health-nutrition-tips</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/conditions/musculoskeletal/sweeney-shoulder-horses</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/calming-supplements-horses</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/best-toys-horses</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/vet-verified/best-fly-sprays-and-fly-repellent-accessories-for-horses</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horse/can-horses-eat-chocolate</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horses/p/2#all-articles</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horses/p/3#all-articles</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horses/p/4#all-articles</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horses/p/5#all-articles</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horses/p/6#all-articles</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/horses/p/44#all-articles</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/reptile/species/african-rock-python</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/reptile/species/african-sideneck-turtle</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/reptile/species/axolotl-ambystoma-mexicanum</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/reptile/species/blue-tongued-skink</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/reptile/species/common-box-turtle</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/reptile/species/burmese-python</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/reptile/species/chinese-water-dragon</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/reptile/species/green-iguana</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/reptile/species/milk-snake</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/reptile/species/mississippi-map-turtle</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/reptile/species/painted-turtle</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/reptile/species/reticulated-python</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/centers/reptile/p/2</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/centers/reptile/p/3</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/centers/reptile/p/4</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/centers/reptile/p/5</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/centers/reptile/p/6</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/centers/reptile/p/11</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/reptile/care/how-check-water-quality-your-turtle-tank</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/reptile/care/how-bathe-your-reptile</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/reptile/care/caring-baby-gecko</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/reptile/conditions/how-tell-if-your-lizard-sick</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/reptile/nutrition/body-condition-score-reptiles</loc>
-</url>
-<url>
-  <loc>http://www.petmd.com/reptile/care/evr_rp_can-you-leash-train-reptile</loc>
 </url>
 </urlset>
